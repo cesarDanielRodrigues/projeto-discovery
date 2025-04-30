@@ -1,4 +1,8 @@
+
 <h1 align="center"> DevLinks </h1>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/cesarDanielRodrigues/project_dark_light_mode)
+![GitHub language count](https://img.shields.io/github/languages/count/cesarDanielRodrigues/project_dark_light_mode)
 
 <p align="center">
 Programa desenvolvido com orientação da Rocketseat para ensino de tecnologias WEB. <br/>
@@ -20,10 +24,9 @@ Programa desenvolvido com orientação da Rocketseat para ensino de tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
-- Figma
 
 ## 💻 Projeto
 
